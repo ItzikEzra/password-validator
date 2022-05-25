@@ -1,5 +1,9 @@
 #!/bin/bash
-password=$1 #if -f not in use,we will take the password from the first argumant
+if [[ $1 == '-f' ]]; then #-f flag is give the option to read the password from a file
+    password=$(<$2)       #$2 will be the file with the password
+else
+    password=$1 #if -f not in use,we will take the password from the first argumant
+fi
 
 password_length=${#password} #retriving password length
 violation_flag=0             #Responsible for the keeping laws
