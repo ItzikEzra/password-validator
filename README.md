@@ -10,7 +10,7 @@ Script and returns as password the password according to the rules: <br
 1) Painted green if the password is valid <br>
 2) Painted in red if illegal, and in addition will say what is wrong <br>
 
-<H3>How to run? </h3>
+<H3>How to run the script? </h3>
 1)clone or download it to your local device <br>
 2)open a terminal in the script location<br>
 <code>.\password-validator.sh your_password </code><br>
