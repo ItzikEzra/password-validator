@@ -1,5 +1,5 @@
 #!/bin/bash
-password=$1 #if -f not in use,we will take the password from the first argumant
+password=$1 #Input from the user
 
 password_length=${#password} #retriving password length
 violation_flag=0             #Responsible for the keeping laws
