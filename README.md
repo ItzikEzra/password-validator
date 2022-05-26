@@ -1,7 +1,7 @@
-<H1>Password validator</h1>
+<H1>Password Validator</h1>
 In this repo, I'll manage 2'nd week's results of Sela DevOps Bootcamp
 
-<H2>Project principles</H2>
+<H2>Project Principles</H2>
 Those scripts will validate a password by the following rules:<br>
 1) Password must be 10 characters or more characters long <br>
 2) Password must contain letters and numbers<br>
