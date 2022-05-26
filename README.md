@@ -5,8 +5,8 @@ In this repo, I'll manage 2'nd week's results of Sela DevOps Bootcamp
 Those scripts will validate a password by the following rules:<br>
 1) Password must be 10 characters or more characters long <br>
 2) Password must contain letters and numbers<br>
-3) Password must contain uppercase and lowercase letters
-Script and returns as password the password according to the rules: <br
+3) Password must contain uppercase and lowercase letters<br>
+Script and returns as password the password according to the rules: <br>
 1) Painted green if the password is valid <br>
 2) Painted in red if illegal, and in addition will say what is wrong <br>
 
