@@ -15,4 +15,5 @@ Script and returns as password the password according to the rules: <br>
 2)open a terminal in the script location<br>
 <code>.\password-validator.sh your_password </code><br>
 <B>in this feature branch you can also read password from a file</B><br>
+to do this you will be need to use in -f options as your input and then put your path
 <code>.\password-validator.sh -f path_file </code><br>
